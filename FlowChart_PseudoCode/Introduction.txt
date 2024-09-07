@@ -1,0 +1,68 @@
+Flowcharts
+---------
+Diagram to represent soltions of problem 
+
+1.Small Parts
+2.logically arrange
+
+Components
+----------
+Start/Exit -> oval shape
+Input/Output -> peralalogram Shape
+Process -> Rectangle Shape 
+Decision ->Dimond Shape
+Connector ->Arrows 
+
+
+Sum of two number
+-----------------
+pseudo code
+----------
+1. start 
+2. input number a & b
+3. Calculate Sum a+b
+4. print sum 
+5. Exit 
+ 
+Calculate Simple Interest 
+-------------------------
+1. start
+2. input principle , rate , time 
+3. Calculate  Simple interest (SI=p*r*t/100);
+4. print Simple Interest 
+5. Exit 
+
+Find max of 3 numbers
+---------------------
+1. start 
+2. input a,b,c
+3. if a>b do
+	if a>c print a
+   	else print c
+   else
+   if b>c print b
+   else print c
+4.exit 
+
+Find if number is prime 
+----------------------
+1. start 
+2. input n
+3. let div =2 
+4. while div<n do 
+		if  n%div ==0 print "not prime" Exit
+		else div=div+1
+5.print "Prime" 
+6.Exit 
+
+Sum of n natural number 
+----------------------
+1. Start 
+2. input n;
+3. let sum=0, i=1
+4. while i<=n 
+	sum=sum+i
+	i=i+1
+5.print sum
+6.exit
+
